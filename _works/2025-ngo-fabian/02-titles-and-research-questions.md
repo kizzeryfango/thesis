@@ -32,7 +32,7 @@ Kriterienkatalog für "Effective Prompting" im Prototyping Erstellung eines evid
 ### Erarbeitung eines KI-gestützten Design-Thinking-Workflow
 Ein konzeptionelle Erarbeitung eines KI-gestützten Design-Thinking-Workflows, der die Interaktion zwischen menschlicher Expertise und künstlicher Intelligenz transparent macht und kritisch bewertet, in welchen Prozessphasen KI sinnvoll unterstützend wirkt und wo menschliche Entscheidungs- und Gestaltungskompetenz unverzichtbar bleibt.
 
-# Evaluierung Usability von KI-Gestützten Prototypen
+### Evaluierung Usability von KI-Gestützten Prototypen
 Es werden 2 Prototypen erstellt. Eine KI Generierte (A) und eine manuell erstellt (B). Durch eine randomisierte kontrollierte Studie (RCT) bestehenden aus Studenten wird überprüft welcher Prototyp nutzerfreundlicher ist mit verschiedenen Qualitativen und oder / Quantitativer Metriken (z.B. SUS oder AttrakDiff) 
 
 
