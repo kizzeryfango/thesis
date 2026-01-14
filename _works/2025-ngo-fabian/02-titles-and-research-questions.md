@@ -3,7 +3,7 @@
 Bitte notieren Sie mindestens 10 mögliche Titel der Arbeit und mindestens 5 mögliche Forschungsfragen/ Zielsetzungen in dieses Dokument. 
 
 
-### Titel
+## Titel
 1. Mensch vs KI: Wie unterscheidet sich die wahrgenommene Usability eines KI-generierten-Prototypen von einem manuellen Entwurf für eine Hochschulplattform? 
 2. Best Practices: Explorative Analyse von KI-Tools in den Phasen des Design Thinking. 
 3. Mensch vs. Maschine im kreativen Prozess: Eine experimentelle Untersuchung zur User Experience KI-generierter Prototypen im Design Thinking Kontext.
@@ -15,21 +15,21 @@ Bitte notieren Sie mindestens 10 mögliche Titel der Arbeit und mindestens 5 mö
 9. KI-gestütztes Rapid Prototyping: Ein A/B-Vergleich der Fehlerraten und Bearbeitungszeit in studentischen Nutzungsszenarien.
 10. Automatisierte Ästhetik: Der Einfluss von Figma Make auf die visuelle Konsistenz und Usability in frühen Design-Phasen.
 
-### Forschungsfragen
+## Forschungsfragen
 1. Inwieweit verbessert KI-gestütztes Prototyping die Einhaltung von WCAG-Richtlinien (Barrierefreiheit) bei der automatischen Generierung von Web-Frontends?
 2. Wie unterscheidet sich die wahrgenommene User Experience eines Prototyps, der mittels KI-gestützter Design-Methoden (Figma Make) erstellt wurde, von einem manuell nach klassischen Design Thinking Prinzipien entwickelten Artefakt?
 3. Welchen Einfluss hat die Nutzung von generativer KI auf die wahrgenommene „Originalität“ eines Prototyps aus Sicht der Endnutzer?
 4. In welchem Maße korreliert die Präzision des Text-Prompts in Figma Make mit dem SUS-Score (System Usability Scale) des resultierenden Prototyps?
 
-### Zielbilder
+## Zielbilder
 
-# Barrieregreiheits Validierungs Framework
+### Barrieregreiheits Validierungs Framework
 Validierungs-Framework für KI-generierte Barrierefreiheit Entwicklung eines Prüfkatalogs, der misst, wie zuverlässig Figma Make spezifische Barrierefreiheits-Standards (z.B. Kontrast, Screenreader-Kompatibilität) im Vergleich zu einem manuell optimierten Prototyp umsetzt.
 
-# Kriterienkatalog
+### Kriterienkatalog
 Kriterienkatalog für "Effective Prompting" im Prototyping Erstellung eines evidenzbasierten Leitfadens, der aufzeigt, wie Design-Anforderungen formuliert sein müssen, damit das KI-Tool Prototypen mit einer hohen pragmatischen Qualität (nach AttrakDiff) produziert.
 
-# Erarbeitung eines KI-gestützten Design-Thinking-Workflow
+### Erarbeitung eines KI-gestützten Design-Thinking-Workflow
 Ein konzeptionelle Erarbeitung eines KI-gestützten Design-Thinking-Workflows, der die Interaktion zwischen menschlicher Expertise und künstlicher Intelligenz transparent macht und kritisch bewertet, in welchen Prozessphasen KI sinnvoll unterstützend wirkt und wo menschliche Entscheidungs- und Gestaltungskompetenz unverzichtbar bleibt.
 
 # Evaluierung Usability von KI-Gestützten Prototypen
